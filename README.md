@@ -8,6 +8,8 @@ This is a challenge by [LeetCode](https://leetcode.com/explore/featured/card/jun
 
 * Day 2: [Delete Node in a Linked List](https://leetcode.com/explore/featured/card/june-leetcoding-challenge/539/week-1-june-1st-june-7th/3348/)
 
+* Day 3: [Two City Scheduling](https://leetcode.com/explore/featured/card/june-leetcoding-challenge/539/week-1-june-1st-june-7th/3349/)
+
 ## Week 2: June 8th–June 14th
 
 ## Week 3: June 15th–June 21st
