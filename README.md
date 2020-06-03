@@ -6,13 +6,13 @@ This is a challenge by [LeetCode](https://leetcode.com/explore/featured/card/jun
 
 * Day 1: [Invert Binary Tree](https://leetcode.com/explore/featured/card/june-leetcoding-challenge/539/week-1-june-1st-june-7th/3347/)
 
-> Recursive Inversion
-> Time: O(n), Space: O(n)
+    > Recursive Inversion | 
+    > Time: O(n), Space: O(n)
 
 * Day 2: [Delete Node in a Linked List](https://leetcode.com/explore/featured/card/june-leetcoding-challenge/539/week-1-june-1st-june-7th/3348/)
 
-> Exchanging Node Data
-> Time: O(1), Space: O(1)
+    > Exchanging Node Data | 
+    > Time: O(1), Space: O(1)
 
 * Day 3: [Two City Scheduling](https://leetcode.com/explore/featured/card/june-leetcoding-challenge/539/week-1-june-1st-june-7th/3349/)
 
