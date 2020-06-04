@@ -16,6 +16,11 @@ This is a challenge by [LeetCode](https://leetcode.com/explore/featured/card/jun
 
 * Day 3: [Two City Scheduling](https://leetcode.com/explore/featured/card/june-leetcoding-challenge/539/week-1-june-1st-june-7th/3349/)
 
+    > Dynamic Programming |
+    > Time: O(n^2), Space : O(n^2) (Recursive Stack)
+
+* Day 4: [Inverse String](https://leetcode.com/explore/featured/card/june-leetcoding-challenge/539/week-1-june-1st-june-7th/3350/)
+
 ## Week 2: June 8th–June 14th
 
 ## Week 3: June 15th–June 21st
