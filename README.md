@@ -26,6 +26,9 @@ This is a challenge by [LeetCode](https://leetcode.com/explore/featured/card/jun
 
 * Day 5: [Random Pick with Weight](https://leetcode.com/explore/featured/card/june-leetcoding-challenge/539/week-1-june-1st-june-7th/3351/)
 
+    > Discrete Distribution + Binary Search |
+    > Time: O(n)[Precomputation] + O(logn)[Function Call], Space: O(n) 
+
 ## Week 2: June 8th–June 14th
 
 ## Week 3: June 15th–June 21st
