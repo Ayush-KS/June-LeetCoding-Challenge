@@ -40,6 +40,12 @@ This is a challenge by [LeetCode](https://leetcode.com/explore/featured/card/jun
     > Time: O(n^2) |
     > Space: O(n) 
 
+* Day 7: [Coin Change 2](https://leetcode.com/explore/featured/card/june-leetcoding-challenge/539/week-1-june-1st-june-7th/3353/)
+
+    > Knapsack |
+    > Time: O(n*m) |
+    > Space: O(n)
+
 ## Week 2: June 8th–June 14th
 
 ## Week 3: June 15th–June 21st
