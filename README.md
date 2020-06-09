@@ -48,6 +48,12 @@ This is a challenge by [LeetCode](https://leetcode.com/explore/featured/card/jun
 
 ## Week 2: June 8th–June 14th
 
+* Day 8: [Power of Two](https://leetcode.com/explore/featured/card/june-leetcoding-challenge/540/week-2-june-8th-june-14th/3354/)
+
+    > Bitwise Operation |
+    > Time: O(1) |
+    > Space: O(1)
+
 ## Week 3: June 15th–June 21st
 
 ## Week 4: June 22nd–June 28th
