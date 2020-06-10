@@ -54,6 +54,12 @@ This is a challenge by [LeetCode](https://leetcode.com/explore/featured/card/jun
     > Time: O(1) |
     > Space: O(1)
 
+* Day 9: [Is Subsequence](https://leetcode.com/explore/featured/card/june-leetcoding-challenge/540/week-2-june-8th-june-14th/3355/)
+
+    > Recursive Character Matching |
+    > Time: O(n) |
+    > Space: O(n) (Recursive Stack)
+
 ## Week 3: June 15th–June 21st
 
 ## Week 4: June 22nd–June 28th
