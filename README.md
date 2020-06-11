@@ -60,6 +60,12 @@ This is a challenge by [LeetCode](https://leetcode.com/explore/featured/card/jun
     > Time: O(n) |
     > Space: O(n) (Recursive Stack)
 
+* Day 10: [Search Insert Position](https://leetcode.com/explore/featured/card/june-leetcoding-challenge/540/week-2-june-8th-june-14th/3356/)
+
+    > Binary Search |
+    > Time: O(log(n)) |
+    > Space: O(1)   
+
 ## Week 3: June 15th–June 21st
 
 ## Week 4: June 22nd–June 28th
