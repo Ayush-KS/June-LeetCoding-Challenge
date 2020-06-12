@@ -66,6 +66,12 @@ This is a challenge by [LeetCode](https://leetcode.com/explore/featured/card/jun
     > Time: O(log(n)) |
     > Space: O(1)   
 
+* Day 11: [Sort Colors](https://leetcode.com/explore/featured/card/june-leetcoding-challenge/540/week-2-june-8th-june-14th/3357/)
+
+    > Dutch National Flag Problem |
+    > Time: O(n) |
+    > Space: O(1)  
+
 ## Week 3: June 15th–June 21st
 
 ## Week 4: June 22nd–June 28th
