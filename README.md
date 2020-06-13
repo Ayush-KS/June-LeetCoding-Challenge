@@ -70,7 +70,13 @@ This is a challenge by [LeetCode](https://leetcode.com/explore/featured/card/jun
 
     > Dutch National Flag Problem |
     > Time: O(n) |
-    > Space: O(1)  
+    > Space: O(1)
+
+* Day 12: [Insert Delete GetRandom O(1)](https://leetcode.com/explore/featured/card/june-leetcoding-challenge/540/week-2-june-8th-june-14th/3358/)
+
+    > Map + Vector Data Structure |
+    > Time: O(1)[Average Complexity] |
+    > Space: O(n)
 
 ## Week 3: June 15th–June 21st
 
