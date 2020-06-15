@@ -6,7 +6,7 @@ public:
         int n = nums.size();
         if(!n)
             return {};
-        unordered_map<int, int> indices;
+        unordered_map<int, int>gi indices;
         for(int i = 0; i < n; i++) {
             indices[nums[i]] = i;
         }
