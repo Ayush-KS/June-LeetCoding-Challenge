@@ -31,7 +31,6 @@ public:
     int findCheapestPrice(int n, vector<vector<int>>& flights, int src, int dst, int K) {
         vector<vector<pair<int, int>>> graph(n, vector<pair<int, int>>());
         vector<vector<int>> dp(n, vector<int>(K + 1, -1));
-        
         for(vector<int> v : flights) {
             graph[v[0]].push_back({v[1], v[2]});
         }
