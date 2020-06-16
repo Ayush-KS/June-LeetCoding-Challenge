@@ -90,8 +90,13 @@ This is a challenge by [LeetCode](https://leetcode.com/explore/featured/card/jun
     > Time: O(n*k) |
     > Space: O((n^2)*k)
 
-
 ## Week 3: June 15th–June 21st
+
+* Day 15: [Search In A Binary Search Tree](https://leetcode.com/explore/featured/card/june-leetcoding-challenge/540/week-2-june-8th-june-14th/3361/)
+
+    > Recursive Binary Search |
+    > Time: O(log(n)) |
+    > Space: O(log(n))
 
 ## Week 4: June 22nd–June 28th
 
