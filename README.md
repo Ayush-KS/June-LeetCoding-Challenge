@@ -98,6 +98,12 @@ This is a challenge by [LeetCode](https://leetcode.com/explore/featured/card/jun
     > Time: O(log(n)) |
     > Space: O(log(n))
 
+* Day 16: [Validate IP Address](https://leetcode.com/explore/featured/card/june-leetcoding-challenge/540/week-2-june-8th-june-14th/3362/)
+
+    > Tokenizing String |
+    > Time: O(n) |
+    > Space: O(n)
+
 ## Week 4: June 22nd–June 28th
 
 ## Week 5: June 29th-June 30th
