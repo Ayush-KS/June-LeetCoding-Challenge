@@ -104,6 +104,12 @@ This is a challenge by [LeetCode](https://leetcode.com/explore/featured/card/jun
     > Time: O(n) |
     > Space: O(n)
 
+* Day 17: [Surrounded Regions](https://leetcode.com/explore/featured/card/june-leetcoding-challenge/540/week-2-june-8th-june-14th/3363/)
+
+    > DFS |
+    > Time: O(n) |
+    > Space: O(n) (Where 'n' is the number of nodes)
+
 ## Week 4: June 22nd–June 28th
 
 ## Week 5: June 29th-June 30th
