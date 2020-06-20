@@ -116,6 +116,12 @@ This is a challenge by [LeetCode](https://leetcode.com/explore/featured/card/jun
     > Time: O(log(n)) |
     > Space: O(1)
 
+* Day 18: [Longest Duplicate Substring](https://leetcode.com/explore/featured/card/june-leetcoding-challenge/540/week-2-june-8th-june-14th/3365/)
+
+    > Binary Search + Rabin-Karp Algorithm |
+    > Time: O(n(log(n))) |
+    > Space: O(n)
+
 ## Week 4: June 22nd–June 28th
 
 ## Week 5: June 29th-June 30th
