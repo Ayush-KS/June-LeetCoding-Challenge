@@ -46,6 +46,7 @@ This is a challenge by [LeetCode](https://leetcode.com/explore/featured/card/jun
     > Time: O(n*m) |
     > Space: O(n)
 
+
 ## Week 2: June 8th–June 14th
 
 * Day 8: [Power of Two](https://leetcode.com/explore/featured/card/june-leetcoding-challenge/540/week-2-june-8th-june-14th/3354/)
@@ -89,6 +90,7 @@ This is a challenge by [LeetCode](https://leetcode.com/explore/featured/card/jun
     > Dynamic Programming |
     > Time: O(n*k) |
     > Space: O((n^2)*k)
+
 
 ## Week 3: June 15th–June 21st
 
@@ -136,5 +138,11 @@ This is a challenge by [LeetCode](https://leetcode.com/explore/featured/card/jun
 
 
 ## Week 4: June 22nd–June 28th
+
+* Day 22: [Single Game II](https://leetcode.com/explore/featured/card/june-leetcoding-challenge/540/week-2-june-8th-june-14th/3368/)
+
+    > Bitmasking |
+    > Time: O(n) |
+    > Space: O(1)
 
 ## Week 5: June 29th-June 30th
