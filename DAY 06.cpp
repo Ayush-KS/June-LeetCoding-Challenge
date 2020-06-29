@@ -21,7 +21,6 @@ public:
         
         stack<pair> st;
         
-        
         for(pair p : ppl) {
             int s = p.second;
             stack<pair> temp;
