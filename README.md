@@ -175,4 +175,10 @@ This is a challenge by [LeetCode](https://leetcode.com/explore/featured/card/jun
     > Time: O(n^3/2) |
     > Space: O(n)
 
+* Day 28: [Reconstruct Itinenary](https://leetcode.com/explore/featured/card/june-leetcoding-challenge/540/week-2-june-8th-june-14th/3374/)
+
+    > Hierholzer Algorithm |
+    > Time: O(E) (Number of edges) |
+    > Space: O(E*E)
+
 ## Week 5: June 29th-June 30th
