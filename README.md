@@ -169,4 +169,10 @@ This is a challenge by [LeetCode](https://leetcode.com/explore/featured/card/jun
     > Time: O(n) |
     > Space: O(n)
 
+* Day 27: [Perfect Squares](https://leetcode.com/explore/featured/card/june-leetcoding-challenge/540/week-2-june-8th-june-14th/3373/)
+
+    > Dynamic Programming |
+    > Time: O(n^3/2) |
+    > Space: O(n)
+
 ## Week 5: June 29th-June 30th
