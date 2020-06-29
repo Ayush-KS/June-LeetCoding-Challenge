@@ -3,7 +3,7 @@
 class Solution {
 public:
     vector<double> prob;
-    
+
     Solution(vector<int>& w) {
         discrete_distribution<> d(w.begin(), w.end());
         prob = d.probabilities();
