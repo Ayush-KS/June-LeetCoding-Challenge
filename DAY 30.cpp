@@ -95,7 +95,6 @@ public:
                 dfs(board, i, j, words, output, root, "");
             }
         }
-        
         return output;
     }
 };
