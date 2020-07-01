@@ -188,3 +188,9 @@ This is a challenge by [LeetCode](https://leetcode.com/explore/featured/card/jun
     > Dynamic Programming |
     > Time: O(n*m) |
     > Space: O(n)
+
+* Day 30: [Word Search II](https://leetcode.com/explore/featured/card/june-leetcoding-challenge/543/week-5-june-29th-june-30th/3376/)
+
+    > Trie + DFS |
+    > Time: O(n^2 * m * s) |
+    > Space: O(n^2 * m * s) (DFS Recursive Depth + Words Size)
